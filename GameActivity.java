@@ -19,7 +19,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import java.util.Random;
-
+/*adding a comment to test git*/
 public class GameActivity extends AppCompatActivity {
 
     private FirebaseAuth mAuth;
